@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rji:home|Door43 (rji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rji|d43-rji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rji/archive/master.zip|d43-rji.zip]]
+
+**Recent Changes**
+{{changes>ns = rji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rji|Ethnologue data]]
+
